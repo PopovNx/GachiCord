@@ -52,14 +52,14 @@ namespace GachiCord
             Statuses = new List<string>(); //List initialization
             Photos = new List<string>(); //List initialization
             Statuses.Add("Without further interruption, let's celebrate and suck some dick"); //Adding statuses to the list
-            Statuses.Add("я хочу ♂THREE HUNDRED BUCKS♂");
-            Statuses.Add("Курс я взял на ♂SUCK SOME DICK♂");
-            Statuses.Add("Я ♂SWALLOW♂ сейчас ♂MY CUM♂");
+            Statuses.Add("I want ♂THREE HUNDRED BUCKS♂");
+            Statuses.Add("The course I took on ♂SUCK SOME DICK♂");
+            Statuses.Add("I ♂SWALLOW♂ now ♂MY CUM♂");
             Statuses.Add("♂Ass we can!♂");
-            Statuses.Add("♂Cum♂ полезен для здоровья");
-            Statuses.Add("♂Two fat cocks♂ лучше ♂little dicks");
+            Statuses.Add("♂Cum♂ good for health");
+            Statuses.Add("♂Two fat cocks♂ is better ♂little dicks");
             Statuses.Add("♂Suck some dick♂ everyday");
-            Statuses.Add("Не зли ♂billy♂, а иначе придется терпеть жетский♂fisting♂");
+            Statuses.Add("Do not be angry ♂billy♂, otherwise you will have to endure hard fisting♂");
             Photos.Add("1"); //Adding photos to the list
             Photos.Add("2");
             Photos.Add("3");
