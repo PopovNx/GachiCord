@@ -45,7 +45,7 @@ namespace GachiCord
         static Program()
         {
 
-            DiscordClient = new DiscordRpcClient("777579821399801867") { Logger = new ConsoleLogger() { Level = LogLevel.Info } }; //Initializing discord client
+            DiscordClient = new DiscordRpcClient("777579821399801867") { Logger = new ConsoleLogger() { Level = LogLevel.Info } }; //Initialization of the client Discord with the previously received application ID
             DiscordClient.OnReady += (sender, e) => Console.WriteLine($"Gachi for {e.User.Username}"); //Adding information output to the console
             DiscordClient.OnPresenceUpdate += (sender, e) => Console.WriteLine($"Update {e.Presence}"); //Adding information output to the console
             Rand = new Random(); //Initializing the randomizer
